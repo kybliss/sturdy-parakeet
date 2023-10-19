@@ -61,6 +61,12 @@ p {
     background-position: center;
 }
 
+.content-paragraph {
+    background-color: #2589bd;
+    color: white;
+    margin-bottom: 10px;
+}
+
 /* .float-left and .float-right create spacing between the elements and the edges of the pages. */
 .float-left {
     float: left;
